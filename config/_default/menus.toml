@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#posts"
   weight = 10
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "#about"
   weight = 20
 
 [[main]]
